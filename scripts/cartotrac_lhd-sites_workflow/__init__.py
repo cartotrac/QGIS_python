@@ -1,4 +1,4 @@
-# Module pour les scripts/traitements Lidar-HD sites
+# Module pour les scripts/traitements CartOtraC Lidar-HD sites
 # Enregistrement de l'algorithme dans QGIS
 
 from qgis.core import QgsApplication

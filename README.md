@@ -10,7 +10,7 @@ QGIS_python/
 ├── LICENSE                            # Licence du projet
 └── scripts/                           # Dossier principal pour les scripts QGIS
     ├── __init__.py                    # Initialisation du module scripts
-    └── lhd_sites_workflow/            # Module dédié aux scripts/traitements Lidar-HD sites
+    └── cartotrac_lhd-sites_workflow/  # Module dédié aux scripts/traitements CartOtraC Lidar-HD sites
         ├── __init__.py                # Enregistrement de l'algorithme dans QGIS
         └── lhd_sites_audit_v1_0_0.py   # Script d'audit des données locales (V1.0.0)
 ```
@@ -18,7 +18,7 @@ QGIS_python/
 ## Modules disponibles
 
 ### 1. **Audit Lidar-HD Sites (V1.0.0)**
-**Chemin** : `scripts/lhd_sites_workflow/`
+**Chemin** : `scripts/cartotrac_lhd-sites_workflow/`
 
 **Description** :
 Outil d'audit structuré pour les données Lidar-HD, incluant :
